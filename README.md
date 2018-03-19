@@ -1,5 +1,5 @@
 ﻿
-# CarClouldService编码规范
+# 基于webpack3的react环境搭建及编码规范(Car-Clould-Service)
 > #### 安装依赖 `npm i -d`
 > #### 启动项目 `npm run dev`
 > #### 开发打包 `npm run TestBuild`
